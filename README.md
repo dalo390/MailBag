@@ -6,9 +6,9 @@ This is an email application designed to allow users to send, receive, and manip
 
 Clone this project
 
-'''
-git clone git@github.com:dalo390/MailBag.git
-'''
+```
+git clone https://github.com/dalo390/MailBag.git
+```
 
 ### Frontend
 
